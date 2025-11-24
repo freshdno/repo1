@@ -1,0 +1,4 @@
+# Created by cloud-init v. 24.4.1-0ubuntu0~20.04.3 on Mon, 24 Nov 2025 16:54:34 +0000
+
+# User rules for serega
+serega ALL=(ALL) NOPASSWD:ALL
